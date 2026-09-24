@@ -4,10 +4,9 @@
 [![Status](https://img.shields.io/badge/Status-Hackathon--Ready-06B6D4?style=for-the-badge)](#)
 [![Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS%20%7C%20Leaflet%20%7C%20Chart.js-10B981?style=for-the-badge)](#)
 [![Theme](https://img.shields.io/badge/UI-Dark%20Command%20Center-EF4444?style=for-the-badge)](#)
-[🌐 Live Demo / Website Click Here](https://github.io)
 
----
 
+https://bokharekomal2-stack.github.io/dynamic-patrol-planning/
 ## 🚔 Overview
 
 **Dynamic Patrol Planning** is a responsive, dark command-center web application designed for police dispatchers, watch commanders, and tactical planners. It bridges the gap between reactive policing and proactive deterrence by fusing **spatial crime incidents**, **traffic collision hotspots**, **temporal day-of-week & hourly risk patterns**, and **active patrol coverage** into an actionable, real-time deployment engine.
